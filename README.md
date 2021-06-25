@@ -159,5 +159,15 @@ vertical operator
 ![image](https://user-images.githubusercontent.com/39863708/123437398-423a1400-d5ed-11eb-98f2-78a21dcededd.png)
 
 
+REFERENCE :
+    • For pgm-image sourcing: https://people.sc.fsu.edu/~jburkardt/data/pgma/pgma.html
+    • For general description & formulation: https://en.wikipedia.org/wiki/Sobel_operator
+    • The understanding of the project & Bear images is sourced from: https://www.youtube.com/watch?v=uihBwtPIBxM
+    • This project will be an extension of the work of Aaron(aka Zoltack429) https://www.youtube.com/user/MrZoltack/about
+    • https://en.wikipedia.org/wiki/Edge_detection
+    • https://www.udemy.com/course/digital-image-processing-from-ground-up-in-python/?src=sac&kw=python+digital+im
+    
+
 ## ALL-in-one Operator:-
 ![image](https://user-images.githubusercontent.com/39863708/123437368-3b130600-d5ed-11eb-84e4-2abeab95acd7.png)
+
